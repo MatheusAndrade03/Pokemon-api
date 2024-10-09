@@ -42,7 +42,7 @@ const renderPokemon = async (pokemon)=>{
 
     buscarPokemon.value=''
     }else{
-        pokemonName.innerHTML='Not Faund :(';
+        pokemonName.innerHTML='Not found :(';
         pokemonNumber.innerHTML='0';
         pokemonImage.src ='truescorn-dance.gif'
 
